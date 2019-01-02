@@ -1,0 +1,12 @@
+{
+  "name": "kubernetes-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts/generate.sh",
+  "scripts": {
+    "start": "bash scripts/generate.sh",
+    "delete": "bash scripts/teardown.sh"
+  },
+  "author": "Rick van Lieshout <info@rickvanlieshout.com> (http://rickvanlieshout.com)",
+  "license": "ISC"
+}

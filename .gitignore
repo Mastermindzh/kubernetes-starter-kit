@@ -1,0 +1,9 @@
+# ignore this folder, you can use this for copying files used to provision your service
+workingdir
+
+# ignore secrets
+secrets/*
+!secrets/.gitkeep
+
+# be sure to ignore node modules if available
+**/node_modules
