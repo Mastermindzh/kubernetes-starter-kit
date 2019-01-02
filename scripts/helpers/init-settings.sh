@@ -3,5 +3,6 @@
 
 # constants which can be overwritten in config.sh
 DEV_MODE=false
-SECRET_KEY_PATH="secrets/"
-WORKINGDIR="workingdir/"
+SECRET_KEY_PATH="secrets"
+WORKINGDIR="workingdir"
+RESOURCEDIR="resources"
