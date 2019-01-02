@@ -47,6 +47,7 @@ The teardown script ([scripts/teardown.sh](./scripts/teardown.sh)) should take c
 │   └── helpers # helper scripts
 │       ├── helpers.sh # useful functions
 │       └── init-settings.sh # pre-set settings (overridable in config.sh)
+├── secrets # folder to share secrets (secret sync files, erlang cookies, etc.)
 │
-└── secrets # folder to share secrets (secret sync files, erlang cookies, etc.)
+└── workingdir # temp file directory
 ```

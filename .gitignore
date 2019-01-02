@@ -1,5 +1,6 @@
 # ignore this folder, you can use this for copying files used to provision your service
 workingdir
+!workingdir/.gitkeep
 
 # ignore secrets
 secrets/*
